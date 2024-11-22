@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">Project01</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <string name="terms">
+    "Welcome to XIO! These Terms and Conditions outline the rules and regulations for using our
+        mobile application. By downloading, installing, or using XIO, you agree to comply with these
+        Terms.If you do not agree, please refrain from using the app.
+
+    1. Acceptance of Terms
+    By accessing or using XIO, you confirm that you have read, understood, and agree to be bound by
+        these Terms and Conditions and our Privacy Policy. If you are using the app on behalf of a
+        company or organization, you represent that you have the authority to bind that entity to
+        these Terms.
+
+    2. Description of the Service
+    XIO is designed to assist electric vehicle (EV) owners by providing features such as:
+
+    Locating Charging Stations: Find nearby EV charging stations based on your GPS location.
+    Charging Session Tracking: Monitor and manage your charging sessions, including duration and costs.
+    User Community Features: Connect with other EV users to share information and experiences.
+    Alerts and Notifications: Receive real-time alerts for charging station availability and special
+    offers.
+
+    3. User Permissions
+    To provide the above services effectively, XIO requests certain permissions from your device:
+
+    GPS Location: Access to your GPS location is essential for identifying nearby charging stations
+        and providing real-time updates. You can manage this permission in your device settings.
+
+    Contacts: This permission may be required to allow users to share information about charging
+        stations with their contacts. You can opt out of this permission, but certain features may be limited.
+
+    Camera Access: If XIO includes QR code scanning for charging stations, we will request access
+        to your camera.
+
+    Storage Access: To enhance user experience, we may need access to your device's storage for
+        saving user preferences and session data.
+
+    By granting these permissions, you acknowledge that you understand how we will use the information
+        collected and agree to provide access as necessary for the app’s functionality.
+
+    4. User Responsibilities
+    As a user of XIO, you agree to:
+
+    Use the app only for lawful purposes and in accordance with these Terms.
+    Provide accurate, current, and complete information during registration
+    and keep your account information up to date.
+    Maintain the confidentiality of your account credentials and not share them with others.
+    Notify us immediately of any unauthorized use of your account or any other breach of security.
+    Not engage in any activity that disrupts or interferes with the app’s functionality or other
+        users' access.
+    5. Data Collection and Usage
+    We are committed to protecting your privacy. Our data collection practices are detailed in our
+        Privacy Policy. We may collect:
+
+    Personal Information: This includes your name, email address, and other contact information when
+        you register or use certain features.
+    Location Data: To provide personalized services, we collect location data when the app is in use.
+    Usage Data: We track how the app is used to improve our services and user experience.
+    By using XIO, you consent to our data collection and usage practices as outlined in our Privacy
+        Policy.
+
+    6. Intellectual Property
+    All content, features, and functionality in XIO, including but not limited to text, graphics,
+    logos, icons, and software, are the exclusive property of [Your Company Name] or our licensors.
+    These materials are protected by copyright, trademark, and other intellectual property laws. You may not reproduce, modify, distribute, or otherwise use any of the materials without our prior written consent.
+
+    7. Limitation of Liability
+    To the maximum extent permitted by applicable law, [Your Company Name] shall not be liable for
+    any direct, indirect, incidental, special, consequential, or punitive damages, including but not
+    limited to loss of profits, data, or other intangible losses, resulting from your use or inability
+    to use XIO.
+
+    8. Termination
+    We reserve the right to terminate or suspend your access to XIO at our sole discretion, without
+    prior notice, for any reason, including if you violate these Terms. Upon termination, your right
+    to use the app will immediately cease.
+
+    9. Changes to Terms
+    We may update these Terms and Conditions from time to time. We will notify you of any changes by
+    posting the new Terms on this page and updating the effective date at the top. Your continued
+    use of XIO after any changes constitutes acceptance of the revised Terms.
+
+    10. Governing Law
+    These Terms and Conditions shall be governed by and construed in accordance with the laws of
+    [Your Jurisdiction]. Any disputes arising under or in connection with these Terms shall be
+    subject to the exclusive jurisdiction of the courts located in [Your Jurisdiction].
+
+    11. Contact Us
+    If you have any questions or concerns regarding these Terms and Conditions, please contact us at:
+
+    Email: [Your Email Address]
+    Phone: [Your Phone Number]
+    Address: [Your Company Address]
+    12. Entire Agreement
+    These Terms and Conditions, along with our Privacy Policy, constitute the entire agreement
+    between you and [Your Company Name] regarding your use of XIO and supersede any prior agreements. "
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>

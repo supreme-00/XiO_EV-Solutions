@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true">
+    <item android:drawable="@drawable/xio1"
+        android:duration="200"/>
+    <item android:drawable="@drawable/xio2"
+        android:duration="200"/>
+    <item android:drawable="@drawable/xio3"
+        android:duration="200"/>
+    <item android:drawable="@drawable/xio4"
+        android:duration="200"/>
+    <item android:drawable="@drawable/xio5"
+        android:duration="200"/>
+    <item android:drawable="@drawable/xio6"
+        android:duration="200"/>
+    <item android:drawable="@drawable/xio7"
+        android:duration="200"/>
+    <item android:drawable="@drawable/xio"
+        android:duration="200"/>
+</animation-list>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:background="#2ecc71"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RegisterActivity">
+
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/materialCardView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardBackgroundColor="#abebc6"
+        android:layout_marginHorizontal="20dp"
+        app:cardElevation="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.493"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.385">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="20dp">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/register_text"
+                android:text="REGISTER"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                android:textStyle="bold"
+                android:textSize="15sp"
+                app:layout_constraintTop_toTopOf="parent"/>
+
+            <TextView
+                android:id="@+id/name_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="24dp"
+                android:text="Name :"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toTopOf="@id/email_text"
+                app:layout_constraintEnd_toStartOf="@id/name_editText"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/register_text" />
+
+            <EditText
+                android:layout_width="200dp"
+                android:layout_height="49dp"
+                android:id="@+id/name_editText"
+                android:hint="Enter your FULL NAME"
+                app:layout_constraintTop_toTopOf="@id/name_text"
+                app:layout_constraintBottom_toBottomOf="@id/name_text"
+                app:layout_constraintStart_toEndOf="@id/name_text"
+                app:layout_constraintEnd_toEndOf="parent"/>
+
+            <TextView
+                android:id="@+id/email_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="24dp"
+                android:text="Email :"
+                android:textStyle="bold"
+                app:layout_constraintBottom_toTopOf="@id/phone_text"
+                app:layout_constraintEnd_toStartOf="@id/email_editText"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/name_text" />
+
+            <EditText
+                android:layout_width="200dp"
+                android:layout_height="48dp"
+                android:hint="Enter your EMAIL"
+                android:id="@+id/email_editText"
+                app:layout_constraintTop_toTopOf="@id/email_text"
+                app:layout_constraintBottom_toBottomOf="@id/email_text"
+                app:layout_constraintStart_toEndOf="@id/email_text"
+                app:layout_constraintEnd_toEndOf="parent"/>
+
+            <TextView
+                android:id="@+id/phone_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="24dp"
+                android:text="Phone :"
+                android:textStyle="bold"
+                app:layout_constraintEnd_toStartOf="@id/phone_editText"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/email_text" />
+
+            <EditText
+                android:layout_width="200dp"
+                android:layout_height="48dp"
+                android:hint="Enter your Phone No."
+                android:id="@+id/phone_editText"
+                app:layout_constraintTop_toTopOf="@id/phone_text"
+                app:layout_constraintBottom_toBottomOf="@id/phone_text"
+                app:layout_constraintStart_toEndOf="@id/phone_text"
+                app:layout_constraintEnd_toEndOf="parent"
+                />
+
+
+
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </com.google.android.material.card.MaterialCardView>
+    <Button
+        android:backgroundTint="#1e8449"
+        android:id="@+id/next_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Next"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/materialCardView"
+        app:layout_constraintVertical_bias="0.108" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
