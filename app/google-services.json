@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "271969842434",
+    "project_id": "xio-ev-solutions",
+    "storage_bucket": "xio-ev-solutions.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271969842434:android:dda7508995c9393a29fe1b",
+        "android_client_info": {
+          "package_name": "com.example.xio_ev_solutions"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK6BlmWqkCqAKV41WQJ-SFs1HWkgI5PkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

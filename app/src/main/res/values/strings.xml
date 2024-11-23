@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">Project01</string>
     <string name="title_activity_settings">SettingsActivity</string>
+    <string name="default_web_client_id">946414662196-9fo7l45go8qpqhpilmp6bb3ifppntpf2.apps.googleusercontent.com</string>
+
 
     <string name="terms">
     "Welcome to XIO! These Terms and Conditions outline the rules and regulations for using our
