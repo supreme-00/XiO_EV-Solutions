@@ -2,8 +2,9 @@
 
 # 🚗 XiO EV-Solutions 🌱  
 ### Empowering EV Owners with Smarter Solutions
+![xio](https://github.com/user-attachments/assets/69150b7a-d014-4a4c-9734-efe103387d9d)
 
-![Logo or Banner Placeholder](https://placehold.co/1000x200?text=XiO+EV-Solutions+Banner)  
+ 
 *Your go-to app for exploring Electric Vehicle (EV) problems and solutions with AI-powered assistance!*
 
 ---
@@ -16,7 +17,8 @@ XiO EV-Solutions is an Android application designed to:
 
 💡 Whether you’re troubleshooting your EV or seeking guidance, XiO EV-Solutions is here to help!
 
----
+
+
 
 ## ✨ **Features**  
 - **User Authentication**: Secure **login** and **registration**.  
@@ -34,15 +36,16 @@ XiO EV-Solutions is an Android application designed to:
 
 ### 1️⃣ **Login Screen**  
 > *Simple and intuitive login with validation.*  
-![Login](https://placehold.co/400x800?text=Login+Screen)
+![WhatsApp Image 2024-11-24 at 00 25 46_f2d46d60](https://github.com/user-attachments/assets/2eb12c2e-5087-4e92-a895-de20d599f054)
+
 
 ### 2️⃣ **Problem List with Search Bar**  
 > *Scroll through a list of EV problems and their solutions.*  
-![Problem List](https://placehold.co/400x800?text=Problem+List+with+Search)
+![WhatsApp Image 2024-11-23 at 23 40 27_6416f015](https://github.com/user-attachments/assets/be5c6334-2ba7-4ccf-b2d6-0ff1cd803374)
 
 ### 3️⃣ **AI Chatbot**  
 > *Interact with the chatbot to get instant, tailored solutions.*  
-![Chatbot](https://placehold.co/400x800?text=Chatbot+Interface)
+
 
 ---
 
